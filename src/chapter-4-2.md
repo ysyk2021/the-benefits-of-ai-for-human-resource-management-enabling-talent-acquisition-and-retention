@@ -1,8 +1,6 @@
-Predictive Analytics for Retention Risk
-=========================================================================================
 
-Introduction
-------------
+
+
 
 Employee retention is a critical challenge faced by organizations. Predictive analytics can be used to identify employees who are at risk of leaving and take proactive measures to retain them. In this chapter, we will explore the benefits of using predictive analytics for employee retention.
 

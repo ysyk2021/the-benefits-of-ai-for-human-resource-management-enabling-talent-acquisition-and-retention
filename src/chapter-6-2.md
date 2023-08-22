@@ -1,8 +1,6 @@
-Performance Management Systems
-====================================================================
 
-Introduction
-------------
+
+
 
 AI and machine learning are transforming the way organizations approach performance management. In this chapter, we will explore how AI is being used to provide data-driven insights into employee performance.
 

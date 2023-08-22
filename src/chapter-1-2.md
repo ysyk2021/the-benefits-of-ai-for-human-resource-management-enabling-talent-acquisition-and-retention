@@ -1,8 +1,6 @@
-Why AI in HR is Important
-===================================================
 
-Introduction
-------------
+
+
 
 AI and machine learning are transforming the way organizations approach human resource management. In this chapter, we will explore why AI in HR is important and how it can benefit organizations.
 

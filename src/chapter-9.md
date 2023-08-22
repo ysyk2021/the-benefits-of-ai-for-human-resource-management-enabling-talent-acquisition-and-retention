@@ -1,8 +1,6 @@
-Chapter 9: Future of AI in HR
-=============================
 
-Introduction
-------------
+
+
 
 As AI and machine learning continue to transform human resource management, it's important to consider the future implications and possibilities. In this chapter, we will explore emerging trends, potential challenges and opportunities, and ways to prepare for the future of AI in HR.
 

@@ -1,8 +1,6 @@
-Overcoming Resistance to Change
-==================================================================
 
-Introduction
-------------
+
+
 
 Implementing AI and machine learning in HR can be a challenge due to resistance to change from employees and other stakeholders. In this chapter, we will explore strategies for overcoming resistance to change when implementing AI in HR.
 

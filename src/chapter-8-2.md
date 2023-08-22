@@ -1,8 +1,6 @@
-Ensuring Transparency and Accountability
-=======================================================================
 
-Introduction
-------------
+
+
 
 AI and machine learning have the potential to transform HR processes, but they also introduce new challenges around transparency and accountability. In this chapter, we will explore strategies for ensuring transparency and accountability in AI in HR.
 

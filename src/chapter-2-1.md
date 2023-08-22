@@ -1,8 +1,6 @@
-Historical Overview of AI and Machine Learning in HR
-=============================================================================================================
 
-Introduction
-------------
+
+
 
 AI and machine learning have become increasingly prevalent in human resource management in recent years. However, the history of AI and machine learning in HR can be traced back to several decades ago. In this chapter, we will provide a historical overview of AI and machine learning in HR.
 

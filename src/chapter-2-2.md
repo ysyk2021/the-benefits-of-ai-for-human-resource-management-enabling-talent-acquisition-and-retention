@@ -1,8 +1,6 @@
-Types of AI and Machine Learning in HR
-===============================================================================================
 
-Introduction
-------------
+
+
 
 AI and machine learning are transforming human resource management, providing new tools and capabilities for talent acquisition and retention. In this chapter, we will explore the different types of AI and machine learning in HR.
 

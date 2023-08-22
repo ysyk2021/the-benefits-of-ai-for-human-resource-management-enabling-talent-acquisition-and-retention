@@ -1,8 +1,6 @@
-Chapter 7: Implementing AI in HR
-================================
 
-Introduction
-------------
+
+
 
 Implementing AI and machine learning technologies in HR can be a complex process. In this chapter, we will explore best practices for implementing AI in HR, including developing an AI strategy, overcoming resistance to change, and best practices for implementation.
 

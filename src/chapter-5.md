@@ -1,8 +1,6 @@
-Chapter 5: Challenges of AI in HR
-=================================
 
-Introduction
-------------
+
+
 
 While AI has the potential to revolutionize human resource management, there are also significant challenges that must be addressed. In this chapter, we will explore some of the key challenges associated with using AI in HR.
 

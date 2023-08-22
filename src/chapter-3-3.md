@@ -1,8 +1,6 @@
-Streamlined Interview Scheduling and Coordination
-===================================================================================================
 
-Introduction
-------------
+
+
 
 The interview process is a critical step in talent acquisition, but it can also be time-consuming and resource-intensive. AI-powered HR systems can streamline interview scheduling and coordination, providing numerous benefits for organizations. In this chapter, we will explore the benefits of using AI for streamlined interview scheduling and coordination.
 

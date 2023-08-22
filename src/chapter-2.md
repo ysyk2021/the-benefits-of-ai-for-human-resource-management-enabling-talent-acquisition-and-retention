@@ -1,8 +1,6 @@
-Chapter 2: Understanding AI and Machine Learning in HR
-======================================================
 
-Introduction
-------------
+
+
 
 AI and machine learning are transforming human resource management, providing new tools and capabilities to attract and retain top talent. In this chapter, we will explore the historical overview of AI and machine learning in HR, types of AI and machine learning in HR, and how they work in an HR context.
 

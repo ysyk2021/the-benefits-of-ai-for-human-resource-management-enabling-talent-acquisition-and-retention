@@ -1,8 +1,6 @@
-Recruitment Tools
-=======================================================
 
-Introduction
-------------
+
+
 
 AI and machine learning are transforming the way organizations approach talent acquisition. In this chapter, we will explore how AI is being used to develop recruitment tools that can help HR professionals find and attract top talent.
 

@@ -1,8 +1,6 @@
-Legal Considerations
-========================================================
 
-Introduction
-------------
+
+
 
 As AI and machine learning technologies continue to transform HR, there are also legal considerations that must be taken into account. In this chapter, we will explore the challenges of AI in HR with a focus on legal considerations.
 

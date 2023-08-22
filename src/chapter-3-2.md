@@ -1,8 +1,6 @@
-Enhanced Candidate Screening and Matching
-===========================================================================================
 
-Introduction
-------------
+
+
 
 Talent acquisition is a critical process for organizations to attract and retain top talent. AI-powered HR systems can enhance talent acquisition efforts by providing enhanced candidate screening and matching capabilities. In this chapter, we will explore the benefits of using AI for enhanced candidate screening and matching.
 

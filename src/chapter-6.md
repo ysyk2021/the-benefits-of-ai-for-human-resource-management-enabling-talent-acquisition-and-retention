@@ -1,8 +1,6 @@
-Chapter 6: Applications of AI in HR
-===================================
 
-Introduction
-------------
+
+
 
 AI and machine learning are transforming human resource management, providing new tools and capabilities for talent acquisition and retention. In this chapter, we will explore the applications of AI in HR, specifically in recruitment tools, performance management systems, and compensation and benefits management systems.
 

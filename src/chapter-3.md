@@ -1,8 +1,6 @@
-Chapter 3: Benefits of AI in Talent Acquisition
-===============================================
 
-Introduction
-------------
+
+
 
 Talent acquisition is a critical process for organizations to attract and retain top talent. AI-powered HR systems can enhance talent acquisition efforts by providing improved candidate sourcing, enhanced candidate screening and matching, and streamlined interview scheduling and coordination. In this chapter, we will explore these benefits in more detail.
 

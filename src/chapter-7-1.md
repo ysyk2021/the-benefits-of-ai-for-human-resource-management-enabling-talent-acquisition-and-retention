@@ -1,8 +1,6 @@
-Developing an AI Strategy
-============================================================
 
-Introduction
-------------
+
+
 
 Developing an AI strategy is critical to successful implementation of AI and machine learning in HR. In this chapter, we will explore key components of developing an AI strategy for HR.
 
