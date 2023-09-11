@@ -1,5 +1,4 @@
-Chapter: Overcoming Resistance to Change
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing Artificial Intelligence (AI) in Human Resource Management (HRM) can be met with resistance from employees and stakeholders. This chapter explores strategies for overcoming resistance to change and fostering a culture of acceptance and adoption of AI in talent acquisition and retention.
 

@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As organizations incorporate Artificial Intelligence (AI) into Human Resource Management (HRM) practices for talent acquisition and retention, it is essential to address ethical considerations. This chapter explores key ethical considerations that arise when using AI in HRM and provides strategies for ensuring responsible and fair AI implementation.
 

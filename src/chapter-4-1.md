@@ -1,5 +1,4 @@
-Chapter: Personalized Employee Engagement
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Personalized employee engagement is a key aspect of leveraging AI technologies in human resource management for talent acquisition and retention. This chapter explores the importance of personalized employee engagement strategies and how AI can enhance and optimize these efforts.
 

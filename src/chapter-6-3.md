@@ -1,5 +1,4 @@
-Chapter: Compensation and Benefits Management Systems
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Compensation and benefits are critical aspects of human resource management that significantly influence talent acquisition and retention. In this chapter, we will explore the role of AI in compensation and benefits management systems and the benefits they bring to organizations.
 

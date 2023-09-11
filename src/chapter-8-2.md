@@ -1,5 +1,4 @@
-Chapter: Ensuring Transparency and Accountability
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the era of Artificial Intelligence (AI), ensuring transparency and accountability is essential for organizations implementing AI in Human Resource Management (HRM). As AI-driven algorithms make important decisions regarding talent acquisition and retention, it becomes crucial to understand and address potential biases or ethical concerns. This chapter explores strategies for promoting transparency and accountability in AI-enabled HRM.
 

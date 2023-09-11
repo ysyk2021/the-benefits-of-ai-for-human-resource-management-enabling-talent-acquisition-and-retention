@@ -1,5 +1,4 @@
-Chapter: Potential Challenges and Opportunities
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of Artificial Intelligence (AI) in Human Resource Management (HRM) brings forth a multitude of benefits. However, it also presents potential challenges and opportunities that organizations must navigate. In this chapter, we will explore some of the key challenges and opportunities associated with implementing AI for talent acquisition and retention in HRM.
 

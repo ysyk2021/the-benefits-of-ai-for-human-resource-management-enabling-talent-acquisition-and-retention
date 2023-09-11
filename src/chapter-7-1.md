@@ -1,5 +1,4 @@
-Chapter: Developing an AI Strategy
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As Artificial Intelligence (AI) continues to transform Human Resource Management (HRM), developing a comprehensive AI strategy becomes critical for organizations seeking to leverage its benefits in talent acquisition and retention. This chapter explores the key considerations and steps involved in developing an AI strategy for HR, providing guidance on successful implementation and maximizing value.
 

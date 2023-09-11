@@ -1,5 +1,4 @@
-Chapter: Streamlined Interview Scheduling and Coordination
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Incorporating Artificial Intelligence (AI) into Human Resource Management (HRM) processes can greatly streamline interview scheduling and coordination, enhancing the efficiency and effectiveness of talent acquisition and retention. This chapter explores how AI can revolutionize interview scheduling and coordination, leading to a more streamlined and seamless process.
 

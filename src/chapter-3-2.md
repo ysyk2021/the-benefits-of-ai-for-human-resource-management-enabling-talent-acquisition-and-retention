@@ -1,5 +1,4 @@
-Chapter: Enhanced Candidate Screening and Matching
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of Human Resource Management (HRM), the process of candidate screening and matching plays a crucial role in talent acquisition and retention. Leveraging Artificial Intelligence (AI) can greatly enhance these processes, leading to more effective and efficient hiring decisions. This chapter explores how AI can revolutionize candidate screening and matching, enabling organizations to identify the best-fit candidates for their needs.
 

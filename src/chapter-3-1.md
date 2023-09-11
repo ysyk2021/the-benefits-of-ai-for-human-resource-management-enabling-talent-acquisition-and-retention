@@ -1,5 +1,4 @@
-Chapter: Improved Candidate Sourcing
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of Human Resource Management (HRM), candidate sourcing plays a critical role in talent acquisition and retention. Finding and attracting qualified candidates can be a challenging and time-consuming task. However, with the advent of Artificial Intelligence (AI) technologies, organizations can revolutionize their candidate sourcing efforts. This chapter explores how AI can improve candidate sourcing, enabling organizations to identify and engage top talent effectively.
 

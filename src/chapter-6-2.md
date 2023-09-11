@@ -1,5 +1,4 @@
-Chapter: Performance Management Systems
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Performance management systems play a crucial role in effectively managing the performance of employees within an organization. This chapter explores the benefits and considerations of implementing performance management systems that leverage AI technologies for talent acquisition and retention purposes.
 

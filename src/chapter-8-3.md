@@ -1,5 +1,4 @@
-Chapter: Addressing Potential Bias
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of Artificial Intelligence (AI), addressing potential bias is a critical aspect of utilizing AI effectively in Human Resource Management (HRM). Bias in AI algorithms can adversely impact talent acquisition and retention processes, perpetuating discrimination and inequality. This chapter explores strategies for identifying, mitigating, and addressing potential bias in AI-enabled HRM.
 

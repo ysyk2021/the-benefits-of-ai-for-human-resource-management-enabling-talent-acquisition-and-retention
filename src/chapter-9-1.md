@@ -1,5 +1,4 @@
-Chapter: Emerging Trends
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The field of Human Resource Management (HRM) is constantly evolving, and the integration of Artificial Intelligence (AI) brings forth new and exciting trends. These emerging trends have the potential to revolutionize talent acquisition and retention practices. In this chapter, we will explore some of the key emerging trends in AI-enabled HRM and their implications for organizations.
 

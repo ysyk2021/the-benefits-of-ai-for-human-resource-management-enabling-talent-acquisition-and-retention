@@ -1,5 +1,4 @@
-Chapter: Legal Considerations
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As organizations increasingly rely on Artificial Intelligence (AI) and Machine Learning (ML) technologies in Human Resource Management (HRM), it is crucial to address legal considerations related to privacy, discrimination, and compliance with applicable laws. This chapter explores the legal landscape surrounding AI in HR, highlighting essential considerations and strategies for mitigating legal risks.
 

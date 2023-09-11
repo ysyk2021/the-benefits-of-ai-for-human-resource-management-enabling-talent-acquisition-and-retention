@@ -1,5 +1,4 @@
-Chapter: How AI and Machine Learning Work in HR Context
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) and Machine Learning (ML) technologies have revolutionized the field of Human Resource Management (HRM) by enhancing talent acquisition and retention strategies. This chapter provides an overview of how AI and ML work in the HR context, explaining the underlying principles and their applications.
 

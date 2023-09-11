@@ -1,5 +1,4 @@
-Chapter: Privacy and Security Concerns
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As organizations embrace Artificial Intelligence (AI) and Machine Learning (ML) technologies in Human Resource Management (HRM), it is crucial to address the associated privacy and security concerns. This chapter delves into the potential risks and challenges related to privacy and security when implementing AI and ML in talent acquisition and retention, highlighting essential considerations and strategies for mitigation.
 

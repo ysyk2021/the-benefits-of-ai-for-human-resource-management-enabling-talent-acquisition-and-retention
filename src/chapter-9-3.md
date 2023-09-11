@@ -1,5 +1,4 @@
-Chapter: Preparing for the Future
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As Artificial Intelligence (AI) continues to advance, it is essential for organizations to prepare for the future of Human Resource Management (HRM). Embracing AI technologies and proactively adapting to emerging trends will enable organizations to stay competitive in talent acquisition and retention. In this chapter, we will discuss key strategies for preparing for the future of AI-enabled HRM.
 

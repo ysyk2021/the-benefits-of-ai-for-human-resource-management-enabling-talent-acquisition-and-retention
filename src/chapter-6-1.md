@@ -1,5 +1,4 @@
-Chapter: Recruitment Tools
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Recruitment is a crucial function within human resource management, responsible for attracting and selecting the best candidates for job openings. In recent years, AI-powered recruitment tools have emerged as valuable assets for HR professionals. This chapter explores the various AI-enabled recruitment tools and their benefits in talent acquisition.
 

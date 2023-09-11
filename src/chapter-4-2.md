@@ -1,5 +1,4 @@
-Chapter: Predictive Analytics for Retention Risk
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the dynamic landscape of Human Resource Management (HRM), organizations are increasingly turning to predictive analytics to identify and mitigate retention risks. With the help of AI technologies and data-driven insights, HR professionals can proactively identify employees who are at risk of leaving the organization. This chapter explores the application of predictive analytics in HRM, specifically focusing on its use in identifying retention risk.
 

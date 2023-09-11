@@ -1,5 +1,4 @@
-Chapter: Types of AI and Machine Learning in HR
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) and Machine Learning (ML) technologies offer diverse applications in Human Resource Management (HRM), enabling organizations to enhance talent acquisition and retention strategies. This chapter explores the different types of AI and ML techniques utilized in HR, highlighting their specific purposes and benefits.
 

@@ -1,5 +1,4 @@
-Chapter: Historical Overview of AI and Machine Learning in HR
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, the field of Human Resource Management (HRM) has witnessed significant advancements with the integration of Artificial Intelligence (AI) and Machine Learning (ML) technologies. This chapter provides a historical overview of the evolution of AI and ML in HR, highlighting key milestones and their impact on talent acquisition and retention strategies.
 

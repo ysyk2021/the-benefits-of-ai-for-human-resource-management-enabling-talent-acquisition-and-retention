@@ -1,5 +1,4 @@
-Chapter: Data Management
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Data is the foundation of effective AI utilization in Human Resource Management (HRM). The chapter "Data Management" explores the importance of data in talent acquisition and retention, as well as strategies to ensure data quality, privacy, security, and compliance.
 

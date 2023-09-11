@@ -1,5 +1,4 @@
-Chapter: Best Practices for Implementation
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing Artificial Intelligence (AI) in Human Resource Management (HRM) can significantly improve the efficiency and effectiveness of talent acquisition and retention. However, successful AI implementation requires careful planning and consideration. This chapter outlines best practices for organizations to follow when implementing AI in HRM.
 
